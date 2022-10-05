@@ -78,7 +78,7 @@ if (isset($_SESSION['email']) && isset($_SESSION['password'])) {
             <nav>
                 <div class="nav-mobile" id="tag"><a id="nav-toggle" href="#!"><span></span></a></div>
                 <ul class="nav-list">
-                    <li><a href="1st.html">Home</a></li>
+                    <li><a href="index.html">Home</a></li>
                     <li><a href="#" onclick="page_scroll();">Take a Tour</a></li>
                     
                     <li><a href="../php-chat-app-main/signup.php">Message</a></li>
